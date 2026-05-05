@@ -12,7 +12,7 @@
 
 **Built by [Ankita Ghosh](https://linkedin.com/in/ank1412) · AI Intern @ Codec Technologies**
 
-[▶️ Open in Colab](https://colab.research.google.com) · [📊 Dataset](https://huggingface.co/datasets/bitext/Bitext-customer-support-llm-chatbot-training-dataset) · [💼 LinkedIn](https://linkedin.com/in/ank1412)
+[▶️ Open in Colab](https://colab.research.google.com/drive/1xV8hpsXl7mVPsDYnFVIcTBOAmGCoqBzb?usp=sharing) · [📊 Dataset](https://huggingface.co/datasets/bitext/Bitext-customer-support-llm-chatbot-training-dataset) · [💼 LinkedIn](https://linkedin.com/in/ank1412)
 
 </div>
 
